@@ -1,0 +1,13 @@
+,count
+raw rows,1067371
+exact duplicate rows,34335
+missing Customer ID,243007
+cancellations (Invoice starts with C),19494
+quantity <= 0,22950
+price <= 0,6207
+clean rows,779425
+unique customers,5878
+non-product rows removed,2848
+clean rows (final),776577
+unique customers (final),5852
+"extreme bulk orders removed (>50,000 units)",2

@@ -1,0 +1,7 @@
+Segment,Customers,PctCustomers,AvgRecencyDays,AvgOrders,AvgSpend,TotalRevenue,PctRevenue
+Champions,1583,27.1,21.0,14.7,7560.0,11968093.0,71.1
+Loyal Customers,1444,24.7,78.0,4.7,1756.0,2535761.0,15.1
+At Risk,1206,20.6,380.0,4.1,1462.0,1763058.0,10.5
+Lost,1134,19.4,474.0,1.0,331.0,375432.0,2.2
+Need Attention,246,4.2,105.0,1.0,410.0,100891.0,0.6
+New & Promising,239,4.1,30.0,1.0,333.0,79679.0,0.5
