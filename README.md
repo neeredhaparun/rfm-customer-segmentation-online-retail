@@ -2,7 +2,7 @@
 
 RFM segmentation of an online retailer's customers using Python, SQL and Tableau. About 27% of customers (the Champions) generate 71% of revenue, and a large group of former regulars has gone quiet and is worth winning back.
 
-**[View the live dashboard on Tableau Public](https://public.tableau.com/views/RFMCustomerSegmentation-OnlineRetail_17931012000740/RFMDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the live dashboard on Tableau Public](https://public.tableau.com/views/RFMCustomerSegmentation-OnlineRetail_17935200643820/RFMDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
 ## 1. Problem
